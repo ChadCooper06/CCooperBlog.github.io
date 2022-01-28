@@ -19,3 +19,5 @@ Some questions regarding this first week and thoughts on it;
     I like to learn so I enjoy being *nudged* towards the answer. I also try to be a helpful person whenever the opportunity arrises.
 
 \*As an aside, I may mention my cat a bit too often __LOL__\*
+
+![Vader Pic](Cat_pic.JPG "My coding partner")
