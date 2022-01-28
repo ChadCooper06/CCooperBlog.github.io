@@ -2,7 +2,20 @@
 
 ### Week 1
 
-During this first week I have been introduced to the basics of Git, GitHub, GitPods and using the Terminal on my Mac to practice and write code. The challenges have not been numerous or difficult to overcome, yet, but I am positive that I will hit roadblocks and become used to 'blockers' and 'challenges' over the coming weeks and months.
-This first week has been a very good introduction to the difficulties that will lie ahead and I am sure that I will become more and more challenged (which is what I'm hoping will happen as I love solving problems/puzzles). I am excited to learn more and grow as a developer but I look forward mostly to learning more languages so I can discover which one or two are the ones that really click with me.  
-If you learn anything about me from this blog, it is that I am honest about what I can and cannot do and I have no issues with asking questions or asking for help. However, I don't like to simply be told an answer unless it's very obvious that I am not understanding. I like to learn so I enjoy being *nudged* towards the answer. Also, I may mention my cat more than is necessary **LOL**!
-I am excited to start this journey.
+During this first week I have been introduced to the basics of Git, GitHub, GitPods and using the Terminal on my Mac to practice and write code. The challenges have not been numerous or difficult to overcome, yet, but I am positive that I will hit roadblocks over the coming weeks and months.
+
+This first week has been a very good introduction to the difficulties that will lie ahead and I am sure that I will become more and more challenged (which is what I'm hoping will happen as I love solving problems/puzzles). 
+
+Some questions regarding this first week and thoughts on it;
+
+**Was my first week what I expected?**
+    This first week was much more fun than I had assumed it would be and I enjoyed learning how to use GitHub/GitPod/GitPages. I still have more learning to do with them but it's been the right amount of difficulty for a first week.
+
+**What am I eager or excited to learn?**
+    Right now, I am eager and excited to keep progressing through all of the introductory information and begin to get better and become slightly more capable. In the future, I am excited to learn a couple languages that can help me make beautiful and functional code.    
+
+**What is something that can be learned about me simply by reading this blog?**
+    The most obvious thing is that can be divined about me from this blog (as it continues along), is that I enjoy challenges and I am not afraid to ask for help when I need it. 
+    I like to learn so I enjoy being *nudged* towards the answer. I also try to be a helpful person whenever the opportunity arrises.
+
+\*As an aside, I may mention my cat a bit too often __LOL__\*
