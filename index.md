@@ -23,7 +23,8 @@ Some questions regarding this first week and thoughts on it;
 ![Vader Pic](Cat_pic.JPG "My coding partner")
 
 
-##Week 2
+
+### Week 2
 
 During week 2 I have gotten better at using GitHub and GitPod and working with the CLI on GitPod. We also started using HTML (HyperText Markup Language) and CSS (Cascading Style Sheets). I have worked with these some on my own in the past and this has been both a refresher and an increase in both knowledge and skills. 
 
