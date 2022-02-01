@@ -21,3 +21,10 @@ Some questions regarding this first week and thoughts on it;
 \*As an aside, I may mention my cat a bit too often __LOL__\*
 
 ![Vader Pic](Cat_pic.JPG "My coding partner")
+
+
+##Week 2
+
+During week 2 I have gotten better at using GitHub and GitPod and working with the CLI on GitPod. We also started using HTML (HyperText Markup Language) and CSS (Cascading Style Sheets). I have worked with these some on my own in the past and this has been both a refresher and an increase in both knowledge and skills. 
+
+The *__COOLEST__* thing I have delved into this week has been the DevTools on Chrome and playing around with those has _literally_ left a smile on my face and I am excited to continue to learn more about them and become more proficient in their use (as well as everything else I am learning \*e.g. CSS\*).
