@@ -39,14 +39,14 @@ The *__COOLEST__* thing I have delved into this week has been the DevTools on Ch
 **How do you solve a problem?**
     Thus far, when I have encountered any problems, I have ventured to find the answer on my own with the help of my classmates, instructors and a couple friends who code for work as my backups. I have not yet encountered an issue that I have been unable to surmount on my own during bootcamp, but when it does happen I will have a safety net of people who will keep me from falling too far. Plus, the almighty Google has been a slight help too.
 
-**What methods do you use to help yourself got unstuck?**
+**What methods do you use to help yourself get unstuck?**
     My initial tactic to unclog myself from an issue is to take a short break and walk away for a few minutes. I usually spend 3-5 minutes playing with my cat or playing a short game on my phone just to disconnect my brain from the issue so that when I return to it a couple minutes later I am looking at it with fresh eyes. Then, if that doesn't fix it, I will try to get help from Google.
 
 
 ### Week 3
 
 SHEW! Week three has been **_ROUGH_** but it was also very enlightening. I struggled a lot and still managed to end the week with a working set of code. There were other things I would have loved to have been able to do to the alarm clock I made, but I simply ran out of time with having to research so much due to my skill level being as low as it is. Even with that lack of progression (in my opinion only), I feel that I did a fair job and learned a lot. I failed __often__ this week and managed to break my code over and over and over and over. I have gained a modicum of confidence..but as Vikram said in that episode of _The Office_:
-                    >"**Confidence**. 
+                    >"Confidence. 
                     >The food of the wise man, but the liqour of the fool."
 
 With that said, I cannot let my gained confidence make me think I can code like a professional just yet. I have a ways to go.
