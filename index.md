@@ -46,8 +46,8 @@ The *__COOLEST__* thing I have delved into this week has been the DevTools on Ch
 ### Week 3
 
 SHEW! Week three has been **_ROUGH_** but it was also very enlightening. I struggled a lot and still managed to end the week with a working set of code. There were other things I would have loved to have been able to do to the alarm clock I made, but I simply ran out of time with having to research so much due to my skill level being as low as it is. Even with that lack of progression (in my opinion only), I feel that I did a fair job and learned a lot. I failed __often__ this week and managed to break my code over and over and over and over. I have gained a modicum of confidence..but as Vikram said in that episode of _The Office_:
-                    >"Confidence. 
-                    >The food of the wise man, but the liqour of the fool."
+
+>"Confidence. The food of the wise man, but the liqour of the fool."
 
 With that said, I cannot let my gained confidence make me think I can code like a professional just yet. I have a ways to go.
 
