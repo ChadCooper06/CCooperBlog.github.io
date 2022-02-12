@@ -47,8 +47,7 @@ The *__COOLEST__* thing I have delved into this week has been the DevTools on Ch
 
 SHEW! Week three has been **_ROUGH_** but it was also very enlightening. I struggled a lot and still managed to end the week with a working set of code. There were other things I would have loved to have been able to do to the alarm clock I made, but I simply ran out of time with having to research so much due to my skill level being as low as it is. Even with that lack of progression (in my opinion only), I feel that I did a fair job and learned a lot. I failed __often__ this week and managed to break my code over and over and over and over. I have gained a modicum of confidence..but as Vikram said in that episode of _The Office_:
 
->"Confidence. 
->The food of the wise man, but the liqour of the fool."
+>"Confidence. The food of the wise man, but the liqour of the fool."
 
 With that said, I cannot let my gained confidence make me think I can code like a professional just yet. I have a ways to go.
 
@@ -57,4 +56,4 @@ With that said, I cannot let my gained confidence make me think I can code like 
     I think a webpage made without all of these would be a very drab affair, if it could even be made at all. The possibilities I see with the combination of HTML, CSS and JS make me excited because I am eager to continue to learn more and try new things. The level of functionality and usability they can give when combined is just a very cool thing to know even exists, let alone being something I can **DO**.
 
 **What are some objects that my blog incorporates?**
-    Currently, as I am using a premade layout for my blog (that will change), there aren't many objects that I can see using DevTools. I see a document object, which allows my JS to connect to my HTML, and a navigator object which appears to show something about the browser...though my assumption there could be falso and I don't know what information it's trying to convey *yet*. There also appears to be a metas object but I have no clue what it does. At some point I will make this blog my own and fill it with objects, functions and variables. It will be like the British Museum, except its contents would actually be mine. That's a future me thing, though he needs to get started or I will start ribbing him for being a lazy nerd. :rofl
+    Currently, as I am using a premade layout for my blog (that will change), there aren't many objects that I can see using DevTools. I see a document object, which allows my JS to connect to my HTML, and a navigator object which appears to show something about the browser...though my assumption there could be falso and I don't know what information it's trying to convey *yet*. There also appears to be a metas object but I have no clue what it does. At some point I will make this blog my own and fill it with objects, functions and variables. It will be like the British Museum, except its contents would actually be mine. That's a future me thing, though he needs to get started or I will start ribbing him for being a lazy nerd.
