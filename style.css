@@ -1,3 +1,38 @@
 #splash{
-    background-color: darkgreen;
+    background-color: rgb(20, 36, 90);
+    height: 80vh;
+    width: 100vw;
+    justify-content: center;
+    align-items: center;
+    display:flexbox;
+}
+.cover-container{
+    background-color: rgb(89, 123, 173);
+}
+h3{
+    size: 25px;
+    color: azure;
+}
+nav{
+    position: relative;
+    align-content: right;
+    padding-top: 2px;
+}
+h1{
+    color: aliceblue;
+    font-size: 30px;
+    justify-content: center;
+    align-items: center;
+    padding: 2px;
+}
+body{
+    background-color: rgb(89, 123, 173);
+}
+p{
+    color: azure;
+    font-size: 14px;
+    flex-wrap: wrap;
+    padding: 10px;
+    align-items: center;
+    justify-content: center;
 }
