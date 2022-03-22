@@ -57,3 +57,31 @@ With that said, I cannot let my gained confidence make me think I can code like 
 
 **What are some objects that my blog incorporates?**
     Currently, as I am using a premade layout for my blog (that will change), there aren't many objects that I can see using DevTools. I see a document object, which allows my JS to connect to my HTML, and a navigator object which appears to show something about the browser...though my assumption there could be falso and I don't know what information it's trying to convey *yet*. There also appears to be a metas object but I have no clue what it does. At some point I will make this blog my own and fill it with objects, functions and variables. It will be like the British Museum, except its contents would actually be mine. That's a future me thing, though he needs to get started or I will start ribbing him for being a lazy nerd.
+    
+    
+### Week 4
+
+Week 4 has been equally as confusing as the previous weeks but we did a cool thing and made a bouncing ball app using JS. Nervous for the in person classes and what all else we have to learn but still looking forward to the weeks ahead. Writing code is not an easy thing to do but I will do it! With each new week I feel that we are all getting better and better and I can see that while my growth is slow, it is also not stopping. That makes me very happy. This week saw no specific questions asked of me for inclusion in the blog so that just means that we've been given a small reprieve before in person class starts.
+
+
+### Week 5
+
+FIRST week of in person classes and it has been a rollercoaster of emotions and code. We learned a lot about atomic design, using Bootstrap and our introduction to "state" and state management began. Thus far, I have almost zero clue about how state works but hopefully soon I will begin to understand it. Our project was a mind reading game that used a mathematical algorithm to "predict" a symbol you "chose".
+
+
+### Week 8
+
+Halfway through the entire bootcamp and still loving every second. This week we were introduced to React and used that JS library to create a website for a fake restaurant. The React library seems to help make the process of creating a site much more developer friendly as it gives you more concise ways to write JS. I have very much enjoyed this week and the project we completed. We also did a React project where we were tasked with taking an already complete page that was riddled with bugs and finding and fixing them all. This helped me understand how easy some bugs are to make and how they can completely break your code. It also gave me a good chance to learn some other things in React that weren't part of the regular instructions for the first half of the week. 
+
+Some questions relating to this week and my thoughts are:
+
+Do you think JavaScript Frameworks and Libraries are easy or hard to use? Why?
+    * I think that JS frameworks and libraries are easier than vanilla JS because they allow the developer to use smaller and more concise components of code to do the same thing as something more verbous. This keeps your code cleaner and pervents as many mistakes as there is less overall characters generally. It is also a more structured way of writing in JS, which is very much not structured, and that leads to less confusion and an easier ability to read the code that is written.
+    * The only difficult aspect of React was the learning curve for the ways it differs from vanilla JS and how certain components of it need to be written in certain locations and orders so it can work...as well as the need for parameters and functions to have names specific to them and as descriptive as possible.
+
+What Frameworks or Libraries are you interested in learning more about?
+    * I want to learn more of React as I really like the way it is set up and I like the ways that it improves the vanilla JS framework.
+    * I have not researched many other libraries but if they are all similar in usage to React and keep JS from being as open to possibilities as vanilla JS is then I imagine I will like them.
+
+Find one emerging JavaScript tool that you would like to learn more about or use in your final project.
+    *At this point, learning more React would be really ideal, as well as just learning more JS. However, Vue.js seems to be something I may enjoy as well. From the little I have read on it thus far it seems to use a lot of the same syntax as React but with simpler techniques that become more flexible in some cases.
